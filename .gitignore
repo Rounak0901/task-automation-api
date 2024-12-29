@@ -1,0 +1,6 @@
+.idx
+.venv
+.vscode
+tasks.db
+routes.py
+**/__pycache__
